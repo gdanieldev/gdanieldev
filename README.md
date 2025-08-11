@@ -41,7 +41,7 @@ Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
 ## 📫 Elérhetőségek
 -  [**LinkedIn**](https://www.linkedin.com/in/gergely-d%C3%A1niel-270665379/)
 -  [**Instagram**](https://www.instagram.com/gdaniel.dev/)
-- **E-mail:** youremail@example.com
+- **E-mail:** daniel@gdanieldev.hu
 
 ---
 
