@@ -1,6 +1,6 @@
-# 👋 Szia, gdanieldev vagyok
+# 👋 Üdvözlöm, gdanieldev vagyok
 
-### 🚀 Front-End Webfejlesztő | Ötletekből születő szép, reszponzív weboldalak
+### 🚀 Front-End Webfejlesztő | Egyéni ötletekből születő szép, reszponzív weboldalak
 
 Kisvállalkozásoknak – főleg kávézóknak, éttermeknek és helyi boltoknak – készítek **látványos**, **mobilbarát** és **gyorsan betöltődő** weboldalakat.  
 A tiszta, letisztult dizájn és a gyors kivitelezés segít, hogy ügyfeleim kitűnjenek az online térben, és jó első benyomást keltsenek.
@@ -21,8 +21,11 @@ A kutatások szerint azok a cégek, akik online is jelen vannak:
 ## 📌 Kiemelt projektek
 Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
 
-- **[Családi vállalkozás weboldala](https://gdanieldev.hu)**  
+- **[Falapszabászat weboldala](https://falapszabasz.hu)**  
   Modern, reszponzív weboldal, letisztult és minimalista felülettel.
+  
+- **[Saját portfolióm](https://gdanieldev.hu)**  
+  Bemutatkozás, egyéb információk, projektek megtalálhatóak itt.
 
 *(Hamarosan további projektek kerülnek ide!)*
 
