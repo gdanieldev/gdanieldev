@@ -21,11 +21,8 @@ A kutatások szerint azok a cégek, akik online is jelen vannak:
 ## 📌 Kiemelt projektek
 Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
 
-- **[Családi vállalkozás weboldala](https://example.com)**  
+- **[Családi vállalkozás weboldala](https://gdanieldev.hu)**  
   Modern, reszponzív weboldal, letisztult és minimalista felülettel.
-
-- **[Kávézó landing page](https://example.com)**  
-  Elegáns, egyoldalas weboldal, sima animációkkal és mobilbarát kialakítással.
 
 *(Hamarosan további projektek kerülnek ide!)*
 
@@ -39,10 +36,10 @@ Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
 ---
 
 ## 📫 Elérhetőségek
-- **LinkedIn:** [LinkedIn profilod](https://linkedin.com/in/yourusername)
-- **Instagram:** [Instagram profilod](https://instagram.com/yourusername)
+- **LinkedIn:** [LinkedIn profilod](https://www.linkedin.com/in/gergely-d%C3%A1niel-270665379/)
+- **Instagram:** [Instagram profilod](https://www.instagram.com/gdaniel.dev/)
 - **E-mail:** youremail@example.com
 
 ---
 
-> 💡 *„Félek attól, hogy átlagos legyek.”*
+> 💡 *„Félek attól, hogy átlagos leszek.”*
