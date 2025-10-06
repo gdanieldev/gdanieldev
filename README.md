@@ -20,11 +20,8 @@ A kutatások szerint azok a cégek, akik online is jelen vannak:
 
 ## 📌 Kiemelt projektek
 Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
-
-- **[Falapszabászat weboldala](https://falapszabasz.hu)**  
-  Modern, reszponzív weboldal, letisztult és minimalista felülettel.
   
-- **[Saját portfolióm](https://gdanieldev.hu)**  
+- **[Saját portfolióm](https://gdanieldev.hu/index/)**  
   Bemutatkozás, egyéb információk, projektek megtalálhatóak itt.
 
 *(Hamarosan további projektek kerülnek ide!)*
@@ -45,4 +42,4 @@ Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
 
 ---
 
-> 💡 *„Félek attól, hogy átlagos leszek.”*
+> 💡 *"Inspired by the fear of being average.”*
