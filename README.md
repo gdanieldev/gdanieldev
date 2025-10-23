@@ -21,7 +21,7 @@ A kutatások szerint azok a cégek, akik online is jelen vannak:
 ## 📌 Kiemelt projektek
 Néhány kedvenc munkám – kattints a címekre, hogy élőben is megnézd.
   
-- **[Saját portfolióm](https://gdanieldev.hu/index/)**  
+- **[Saját portfolióm](https://gdanieldev.hu)**  
   Bemutatkozás, egyéb információk, projektek megtalálhatóak itt.
 
 *(Hamarosan további projektek kerülnek ide!)*
